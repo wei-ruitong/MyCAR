@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCar</string>
+    <string name="led_status">&#xe6d9;</string>
+    <string name="turn_left">&#xe567;</string>
+    <string name="turn_right">&#xe62f;</string>
+    <string name="qianjin">&#xe503;</string>
+    <string name="houtui">&#xe6a4;</string>
+</resources>
