@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
      */
     private void init_MQtt(){
         //初始化sdk
-        MqttClient.initialize(this,"183.230.40.39",6002,"586234185","262685","HE4LCsIsYxF7WkDPVSV4ua7isfw=");
+        MqttClient.initialize(this,"183.230.40.39",6002,"设备ID","产品ID","MasterAPI—key");
         //设置接受响应回调
         MqttClient.getInstance().setCallBack(callBack);
         //设置连接属性
